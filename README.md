@@ -30,13 +30,6 @@ It was built as an academic project for an **Analysis of Algorithms (AOA)** cour
 - [Node.js](https://nodejs.org/) 18+ (LTS recommended)
 - npm (bundled with Node.js)
 
-### Installation
-
-```bash
-git clone https://github.com/SHANTANU-SRSHAN/CampusPath.git
-cd CampusPath
-npm install
-```
 
 ### Development
 
